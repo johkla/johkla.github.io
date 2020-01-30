@@ -32,15 +32,15 @@ i cannot help but feel that my own suffering would need to be in the book, not i
 
 a book is a conversation with the reader. i learned that by writing a book and it being published and read. i learned that from the readers of i am here who wrote to me or spoke to me about it. the process of writing and being read are inextricably entangled. publishing a book or publishing your writing in a different way, on the internet, or in a zine, creates the possibility of being read.
 
-today the times published a picture that i haven't seen before. looking at this picture a journalist (...) wrote :
+today the times published a picture i haven't seen before. looking at it, a journalist, Feargal Keane wrote in the Daily Mail :
 
-> ...
+> She is around 14 [sic] years of age and looking directly into the camera. The girl has only recently arrived at the camp. On her lower lip there is a cut. Her eyes stare directly into the lens and the fear transmits itself across the decades.
 
-but mr.keane you are mistaken. czesława kwoka is not looking directly at the camera. she is deliberately, defiantly, *not* looking at it. even this, perhaps her last act of defiance, of her agency, is being taken away from her by such an interpretation. let us celebrate this ... her statement. i hear you czesława kwoka. i see you.
+But Mr.Keane you are mistaken. Czesława Kwoka is not looking directly into the camera. She is deliberately, defiantly, *not* looking at it. She is not afraid but proud. Even this, perhaps her last act of agency, is being taken away from her by such an interpretation. Let us celebrate this ... her statement. I hear you Czesława Kwoka. I see you.
 
 ![Czesława Kwoka 1928—1943](http://johannesk.com.s3.amazonaws.com/2019/Czes%C5%82awa-Kwoka.jpg)
 
-i had the realisation that my work with people who are suffering began long before i started working in a hospital. my compassion was awakened by portraits such as these and by the statement that poetry was impossible after auschwitz. i remember where i was when my friend told me this. he didn't know who said it, but he was surprised that i'd never heard it. it hit me like a bolt of lightening. i stood in the carpark of the art school in the hot sun and i didn't get into my car.
+i had the realisation that my work with people who are suffering began long before i started working in a hospital. my compassion was awakened by portraits such as these and by the idea that poetry was impossible after auschwitz. i remember where i was when my friend told me this. he didn't know who said it, but he was surprised that i'd never heard it. it hit me like a bolt of lightening. i stood in the carpark of the art school in the hot sun and i didn't get into my car.
 
 come on, my friend, who was in the car already, said. let's go!  
 i got into the car.  
@@ -52,7 +52,7 @@ he didn't know.
 
 that was before google but it wasn't hard to find out. they weren't his exact words but it was adorno — not that it matters. never was it clearer to me of how little importance the exact words and the identity of the original speaker of those words can be. what matters is how words can change a person. and ultimately this is why i am compelled to write. 
 
-that's how it all began, and then there was primo levi, is this a man? and all the other testimonies and all the visual material i could find, and there was a lot.
+that's how it all began, and then there was primo levi, is this a man? and all the other testimonies and all the visual material i could find, which seemed never ending.
 
 i was still an artist then. i would never call my-so-called-self a poet and having visiting cards printed with my one of my pseudonyms, i.j.oog and 'dichter' (the dutch word for poet) was a strategy, what might be called, somewhat pretentiously, an intervention now, it was an artwork about the problem of being an artist, a kind of refusal. this would have been what, 1996 or 1997?
 
@@ -64,9 +64,7 @@ the result was : memorial for the victims of medical experiments in auschwitz (d
 
 here are some screenshots from it. i took hundreds of these and every one of them is unique because of the random nature of the programme and the glitch. but when i printed them i was not happy with the result. they were too still, and the luminosity was missing.
 
-in 'on photography' susan sontag
-
-Photography is to participate in another person’s (or other thing’s) mortality, vulnerability, mutability, Susan Sontag wrote in On Photography (1977) and that is where I began, without knowing it, perhaps even as she was writing that, with my father's Balda. He'd moved on to a Zenith and I moved on from photography and this is where I am now, in a room with four people, one of whom wants to die, and three others who want her, more than anything, to stay alive. 
+Susan Sontag too was changed by photographs of the holocaust which she encountered as 14 year old in a bookshop. Later she wrote that photography is to participate in another person’s (or other thing’s) mortality, vulnerability, mutability,  wrote in On Photography (1977) and that is where I began, without knowing it, perhaps even as she was writing that, with my father's Balda. He'd moved on to a Zenith and I moved on from photography and this is where I am now, in a room with four people, one of whom wants to die, and three others who want her, more than anything, to stay alive. 
 
 For how long? It is a strange kind of bargaining. I can't go on, she repeats over and over again, not a day longer. But slowly as if magically, the three others find a way to break her resolve, but to call it resolve would be to overstate it. She doesn't want to die, she just doesn't want the life that she has. I mention the Dutch poet Rogi Wieg who said exactly that, before finally receiving medical euthanasia at the age of x. She livens up briefly. She knows his story, she has read his poems. His friend Joost Z. did everything he could to dissuade him. He rang and sent him messages. He arrived on his doorstep the night before the doctor was due to come and give him the end of life drugs.
 
