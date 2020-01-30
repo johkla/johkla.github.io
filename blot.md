@@ -1,6 +1,6 @@
 ---
 title:
-permalink: /about/blot/
+permalink: blot
 ---
 
 so why are you leaving blot?! don't you love blot?

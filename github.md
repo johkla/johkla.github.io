@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /about/github/
+permalink: github
 ---
 
 This is the github page. It uses the page layout.
@@ -14,6 +14,8 @@ jekyll is not as much fun as blot but it does automatically generate the html pa
 
 the long and the short of it is : there will be weirdness, URLs will change and the move will take time. 
 
-as always, the URL [now.johannesk.com](now.johannesk.com) will get you to the new **now** page.  
+as always, the URL [now.johannesk.com](now.johannesk.com) will get you to the new **now** page, and [blog.johannesk.com](http://blog.johannesk.com) to the blog but you will get sent back to blot at some point.  
 
 the other bits will take (a lot) longer to move across.
+
+[https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)

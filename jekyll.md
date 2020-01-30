@@ -1,10 +1,10 @@
 title:
-permalink: /about/jekyll/
+permalink: jekyll
 tags: tests 
 
 this is really for me, not for you but ok.
 
-the most annoying difference between blot and jekyll is that the live website on github pages doesn't update immediately — sometimes it doesn't update until 20 minutes later and so when you look at the site you don't know if what you did isn't working, or the old version of the site is stuck in the cache, or the site hasn't been generated yet or it has failed to build the site.
+the most annoying difference between [blot](blot) and [jekyll](jekyll) is that the live website on [github](github) pages doesn't update immediately — sometimes it doesn't update until 20 minutes later and so when you look at the site you don't know if what you did isn't working, or the old version of the site is stuck in the cache, or the site hasn't been generated yet or it has failed to build the site.
 
 THEREFORE THE MOST IMPORTANT THING IF THE NEW SITE IS NOT LOADING IS TO CHECK YOUR EMAIL BECAUSE YOU WILL GET AN EMAIL IF THE SITE FAILED TO BUILD. 
 
