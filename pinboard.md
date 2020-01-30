@@ -8,8 +8,14 @@ but i'd rather do so in a place to which people have to go specifically if they 
 
 so ... enter pinboard, 'a social bookmarking site for introverts', made by the inimitable maciej cegłowski (who also [coined the idea of slowly, slowly falling](https://www.wired.com/2013/11/the-next-big-thing-you-missed/)).
 
-below are my last 12 pinboard posts [all of my public posts and comments are here](https://pinboard.in/u:posthumanist) 
+below are my 12 most recent public pinboard posts and [all of my public posts and comments are here](https://pinboard.in/u:posthumanist) 
 
 <script language="javascript" src="http://pinboard.in//widgets/v1/linkroll/?user=posthumanist&count=12"></script>
 
-you can see my public posts on specific tags/topics by clicking on a tag/topic on the right hand side of [the main pinboard screen](https://pinboard.in/u:posthumanist)) eg [here are all my mac links](https://pinboard.in/u:posthumanist/t:mac/). also each tag/topic has its own rss feed for those that are that way inclined.
+
+
+----------------------
+
+<p>&nbsp;<p>
+
+on [pinboard](https://pinboard.in/u:posthumanist) you can see my posts on specific tags/topics by clicking on a tag/topic on the right hand side of screen eg [here are all my mac links](https://pinboard.in/u:posthumanist/t:mac/). each tag/topic also has its own rss feed for those that are that way inclined.
