@@ -6,7 +6,30 @@ published: true #false
 tags: holocaust, art, historical  
 ---
 
-as i begin for the umpteenth time to write what might or might not turn out to be the beginning of this book, it is the 75th anniversary of the liberation of auschwitz. i am not sure that liberation is the right word. most of the ones who were not killed or died from misery, illness, malnutrition or exhaustion and you might well argue 'killed' is an appropriate word for them too, weren't there anymore but ok for the ones who were too sick to march, to bergen belsen and mauthausen and elsewhere, it was liberation, as documented so unflinchingly by primo levi.
+as i begin to write what might, or might not, turn out to be the beginning of this book, it is the 75th anniversary of the liberation of auschwitz. i am not sure that liberation is the right word. most of the ones who were not killed or died from misery, illness, malnutrition or exhaustion and you might well argue 'killed' is an appropriate word for them too, weren't there anymore but ok for the ones who were too sick to march, to bergen belsen and mauthausen and elsewhere, it was liberation, as documented so unflinchingly by primo levi.
+
+what is the measure of suffering? 
+
+each and everyone's suffering is unique. you can never know someone's else suffering. it is difficult enough to know your own suffering, and most people are so occupied with their own suffering that there is very little room for anyone else's. this is the way of the world and of life. this is part of the human condition. 
+
+if you are foolish enough to show anyone your suffering it is likely to make you suffer even more and most people know this, either innately or through bitter experience.
+
+you become a patient, an inmate or a pariah.
+
+this makes therapy and consolation problematic. i do not want to see or acknowledge your suffering because, even though it is more than likely very different, it reminds me of my own. it makes me feel my own suffering more acutely. at best i can try and persuade you that your suffering is in fact not as unbearable as you think and/or say it is, but i would be doing that more for myself than for you. 
+
+your suffering, if you were to reveal it to me i [.] 
+
+working with people who are dying, and/or who are acutely aware of the real possibility that their death is imminent and people who are suffering unbearably and want to die, i learned that often all i could do is to acknowledge another's suffering, perhaps to connect with it, not by understanding it since that is impossible, but by bearing witness. 
+
+so how to write a book of consolation? could a book be a witness? can i bear witness by writing a book? could someone be consoled by reading such a book? 
+that 
+
+
+should i write about my own suffering then?
+i cannot help but feel that my own suffering would need to be in the book, not in the hope that my suffering would be understood by someone reading about it, but in the hope that someone who is suffering would feel less alone.
+
+a book is a conversation with the reader. i learned that by writing a book and it being published and read. i learned that from the readers of i am here who wrote to me or spoke to me about it. the process of writing and being read are inextricably entangled. publishing a book or publishing your writing in a different way, on the internet, or in a zine, creates the possibility of being read.
 
 today the times published a picture that i haven't seen before.
 
