@@ -2,7 +2,7 @@
 title: how it all began  
 type: page  
 permalink: how-it-all-began  
-published: true #false  
+published: false #true  
 tags: holocaust, art, historical  
 ---
 
@@ -94,7 +94,12 @@ When the state determined that people sitting on their arses watching television
 
 ----------------------
 
-In Auschwitz, Primo Levi noticed a group muselmen 
+In Auschwitz, Primo Levi noticed a group muselmen
+
+
+“Their life is short, but their number is endless: they, the Muselmanner, the drowned form the backbone of the camp, an anonymous mass, continually renewed and always identical, of non men who march and labour in silence, the divine spark dead within them, already too empty to really suffer. One hesitates to call them living: one hesitates to call their death death, in the face of which they have no fear, as they are too tired to understand…"
+
+- Primo Levi, If This Is a Man 
 
 My conversations with holocaust survivors, and with cancer sufferers, in my conversations with people who are suffering in such a way that they want to end their lives, or that they can't go on  
 

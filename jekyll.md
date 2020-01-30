@@ -28,10 +28,25 @@ THE MOST IMPORTANT THING IF A SITE IS NOT LOADING IS TO CHECK YOUR EMAIL BECAUSE
 
 
 
+
+
+
+
+----------------------
+
+#### this is probably useful
+
+cheatsheet : https://devhints.io/jekyll
+
+If you want a page not to appear in the menu, set the title in the front matter of the page to ``&nbsp;``. Simply leaving the title blank does not work!
+
+*Or does it?*
+
+----------------------
+
 29-1-20 : the main problem with site at the beginning of the day (and the latter half of yesterday) was that it puts the title at the top of the page twice for no good reason. that is now fixed as describe below.
 
 the #1 problem now is that i don't want the list of posts on the front (index)page. it doesn't seem to matter which template i assign to it.
-	
 	maybe i can make my own template?
 
 <hr>
@@ -40,7 +55,7 @@ i need :
 - more space around the horizontal rules but the css code that i put in didn't work but i am hopeless at css.
 - no capitals in titles but the css code that i put in didn't work but i am hopeless at css.
 
-
+----------------------
 
 ### does frontmatter matter?
 
@@ -51,6 +66,8 @@ for example
 what you do need for a file to be interpreted as a dated post is for it to be named with the date and then a dash and some letters. if you don't nominate a title, this will be the title.
 
 eg 2020-01-29-post.md
+
+----------------------
 
 ### double titles
 
@@ -109,7 +126,6 @@ a footnote with the referred tekst in small and grey font online and it autonumb
 an autoplaying sound file
 
 <audio autoplay src="http://johannesk.com.s3.amazonaws.com/2019/we%20are%20fine%20sharon%20van%20etten%20WFMU%2028-01-2012.mp3" preload controls></audio>
-
 
 ----------------------
 
