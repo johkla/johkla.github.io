@@ -5,4 +5,6 @@ Derek Bentley was hanged 67 years ago on Tuesday at the age of 19 for the murder
 
 ----------------------
 
-<p> also : on this day in 1661 oliver cromwell, who died in 1658, was taken from his grave and “executed” on the anniversary of the execution of the monarch he deposed. his head was displayed on a pole until about 1685.
+<p> 
+
+also : on this day in 1661 oliver cromwell, who died in 1658, was taken from his grave and “executed” on the anniversary of the execution of the monarch he deposed. his head was displayed on a pole until about 1685.
