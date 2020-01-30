@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+so i decided to move my website again. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+this version is running on [github](github) pages powered by [jekyll](jekyll) with the minima theme. it has been a rocky road but i think i am beginning to like it 🙂 as much as i _can_ like frigging around with code and backends. most of my is sill on [blot](blot) though.
