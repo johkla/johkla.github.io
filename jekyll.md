@@ -68,11 +68,13 @@ To change the home page layout, edit the _layouts/home.html file.
 See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-# headline001
+# things to investigate
 
+submodules
 
+https://help.github.com/en/github/working-with-github-pages/using-submodules-with-github-pages
 
-## headline2
+## not jekyll but old blot notes
 
 ### headline3
 
