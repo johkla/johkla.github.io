@@ -1,0 +1,3 @@
+a leap of faith
+
+what life, the world, the ten to the power of five hundred universes and the eleven dimensions, asks of us at various crucial points in our lives requires a leap of faith. but almost everyone says no and goes back to whatever stuff occupies their time and space and being — or they don’t even hear what is being asked of them because they are too distracted by white noise and/or their stuff — or, it must be said, by their suffering. 
