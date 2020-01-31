@@ -2,10 +2,11 @@
 title: now
 ---
 
-the OED word of the day today is **hipparchy**. when i first saw that i was like, that's when the world is ruled by hipsters! but it's not.
+**not here**
 
-[https://www.oed.com/view/Entry/54178059](https://www.oed.com/view/Entry/54178059)
+![](https://s3.amazonaws.com/johannesk.com/img2020/melbourne-31-1-20-3.17pm.jpg)
 
+melbourne, 3.17pm.
 
 
 ----------------------
@@ -14,9 +15,9 @@ the OED word of the day today is **hipparchy**. when i first saw that i was like
 
 **not now**
 
-![](https://s3.amazonaws.com/johannesk.com/2020/img/amsterdam-1958.jpg)
+![](https://s3.amazonaws.com/johannesk.com/img2020/leidsche-rijn.jpg)
 
-amsterdam, 1958 — eddy posthuma de boer.
+leidsche rijn, yesterday.
 
 
 
