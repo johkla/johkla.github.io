@@ -1,9 +1,10 @@
----
-title: &nbsp;  
-type: page  
-permalink: solace001  
+
+layout: page
+title: 
+permalink: solace001
 published: false  
-tags: holocaust, art, historical  
+tags: holocaust, art, photography, historical  
+  
 ---
 
 # solace
@@ -109,3 +110,19 @@ My conversations with holocaust survivors, and with cancer sufferers, in my conv
 
 what is it that makes it possible for some people to 'carry on'?
 
+
+
+----------------------
+
+the current title i have in mind for the book is :
+solace - consolations for atheists, agnostics, humanists posthumanists and somethingists.
+
+this is of course too convoluted but the publisher if i am lucky enough to find one now that i don't have john's help will be sure to let me know about that :)
+
+or it could be 'solace : conversations about life and death'. that was the subtitle of 'i am here' before it was published but my editor and then sort of agent, john hirst, may he rest in peace, thought 'stories from a cancer ward' would be a more appealing subtitle to the book buying public, and thus to a publisher. he was right about the latter and i didn’t know anything about what appeals to the book buying public and i still don’t. i was just happy to get some of my ideas out there in the form of a book which could be read, and whether the readers bought the book or not was not that important to me.
+
+i am thinking about that now because when you are engaged in the torturous process of writing another book as i am currently, thinking about the title is always a favourite way of procrastinating which doesn't seem like procrastinating.
+
+i don’t think john liked being wrong but is it possible that more people would have bought the book if i had insisted on keeping the original title? perhaps. but it is also possible that i would never have found a publisher without john’s help and for this i will always be grateful to him.
+
+but i do still like 'conversations about living and dying'. isn’t almost everything a conversation about either living or dying, or both? and are the conversations that aren't even worth having?
