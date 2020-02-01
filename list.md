@@ -7,5 +7,7 @@
 #
 
 ---
+title: list
+permalink: list
 layout: home
 ---
