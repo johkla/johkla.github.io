@@ -1,5 +1,5 @@
 ---
-title:   
+title: &nbsp;  
 type: page  
 permalink: solace001  
 published: true  
