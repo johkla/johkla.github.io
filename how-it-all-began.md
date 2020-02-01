@@ -1,10 +1,14 @@
 ---
-title: how it all began  
+title:   
 type: page  
-permalink: how-it-all-began  
-published: false #true  
+permalink: solace001  
+published: true  
 tags: holocaust, art, historical  
 ---
+
+# solace
+
+## in the beginning
 
 as i begin to write what might, or might not, turn out to be the beginning of this book, it is the 75th anniversary of the liberation of auschwitz. i am not sure if 'liberation' is the right word. most of the ones who were not killed or died from misery, illness, malnutrition or exhaustion (and you might well argue 'killed' is an appropriate word for them too) weren't there anymore but for the ones who were too sick to march, to bergen belsen and mauthausen and elsewhere, it _was_ liberation, as documented so unflinchingly by primo levi.
 

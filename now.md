@@ -2,12 +2,9 @@
 title: now
 ---
 
-**not here**
+![](http://johannesk.com.s3.amazonaws.com/2019/b+e.gif)
 
-![](https://s3.amazonaws.com/johannesk.com/img2020/melbourne-31-1-20-3.17pm.jpg)
-
-melbourne, 3.17pm.
-
+brexit talk with ernie and bert.
 
 ----------------------
 
