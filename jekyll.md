@@ -148,5 +148,3 @@ this is some text and  [here is yet another link to google](google.com)  more te
 <html><text-align:right>if you want to align something to the right you have to use html.</html>
 
 <a href="http://www.johannesk.com/misc/test#anchor">anchor test
-
-
