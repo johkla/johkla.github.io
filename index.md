@@ -10,3 +10,10 @@ title:
 layout: home
 
 ---
+
+{{ site.posts.first }}
+
+
+
+----------------------
+
