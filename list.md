@@ -1,6 +1,6 @@
 ---
 layout: list
-title: list
-permalink: list
+title: posts
+permalink: posts
 ---
 
