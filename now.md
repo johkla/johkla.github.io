@@ -4,7 +4,7 @@ title: now
 
 ![](https://s3.amazonaws.com/johannesk.com/2019/bertandernie.gif)
 
-obrexit talk with ernie and bert.
+last brexit talk with ernie and bert.
 
 ----------------------
 
