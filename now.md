@@ -2,7 +2,7 @@
 title: now
 ---
 
-![](http://johannesk.com.s3.amazonaws.com/2019/b+e.gif)
+![](https://s3.amazonaws.com/johannesk.com/2019/bertandernie.gif)
 
 brexit talk with ernie and bert.
 

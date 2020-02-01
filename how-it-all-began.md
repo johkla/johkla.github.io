@@ -10,7 +10,7 @@ tags: holocaust, art, historical
 
 ## in the beginning
 
-as i begin to write what might, or might not, turn out to be the beginning of this book, it is the 75th anniversary of the liberation of auschwitz. i am not sure if 'liberation' is the right word. most of the ones who were not killed or died from misery, illness, malnutrition or exhaustion (and you might well argue 'killed' is an appropriate word for them too) weren't there anymore but for the ones who were too sick to march, to bergen belsen and mauthausen and elsewhere, it _was_ liberation, as documented so unflinchingly by primo levi.
+as i write what might or might not be the beginning of this book, it's the 75th anniversary of the liberation of auschwitz, if 'liberation' is the right word. most of the ones who had not been killed or who died from misery, illness, malnutrition or exhaustion (and you might argue 'killed' is the right word for what happened to them too) had gone. but for the ones who were too sick to march, to bergen belsen and mauthausen and elsewhere, it _was_ liberation, as documented so unflinchingly by primo levi.
 
 what is the measure of suffering? 
 
