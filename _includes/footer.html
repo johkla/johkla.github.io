@@ -5,14 +5,33 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <h2 class="footer-heading">
+
+
+
+
+<a href="http://johannesk.com">johannesk.com</a> <br>    
+
+<a href="http://about.johannesk.com">about</a> | 
+
+<a href="http://blog.johannesk.com">blog</a> | 
+
+<a href="http://now.johannesk.com">now</a> | 
+
+<a href="https://notes.pinboard.in/u:posthumanist/notes/d14b556512d7b231aa8e">pinboard</a> | 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSehYJX5PxwxtQ_IO8q90sOtQFqUBg2L4rcilCiUGsY0wqCbaQ/viewform?embedded=true">contact</a><p>
+
+
+
+</h2>
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+            <li class="p-name">links</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li></li>
           {%- endif %}
         </ul>
       {%- endif %}
@@ -22,10 +41,12 @@
       </div>
     </div>
 
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
+<p class="feed-subscribe">
+      <a href="{{ 'feed.xml' | relative_url }}">
+        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span></span>
+      </a>
+    </p>
 
   </div>
 
-</footer>
+</footer> 
