@@ -2,9 +2,13 @@
 title: now
 ---
 
-![](https://s3.amazonaws.com/johannesk.com/2019/bertandernie.gif)
+![]()
 
-last brexit talk with ernie and bert.
+Fuck.
+
+Heathrow Terminal 4  
+W.H.Smith  
+Top shelf: The Subtle Art of Not Giving a Fuck; Everything Is Fucked; I Used to Be a Miserable Fuck; The Four Thoughts That Fuck You Up; Surrounded by Idiots. Middle shelf: The Life-Changing Magic of Not Giving a Fuck; Calm the Fuck Down; Fuck No!. 
 
 ----------------------
 
@@ -12,9 +16,9 @@ last brexit talk with ernie and bert.
 
 **not now**
 
-![](https://s3.amazonaws.com/johannesk.com/img2020/leidsche-rijn-30-1-20.jpg)
+![]()
 
-leidsche rijn, yesterday.
+andy gill RIP
 
 
 
