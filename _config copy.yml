@@ -32,9 +32,3 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
-
-header_pages:
-  - about.md
-  - now.md
-  - posts.md
-  - pinboard.md
