@@ -1,3 +1,0 @@
-There is a sprinkling of soft bluish-green leaves in some woods on stems that have wound themselves round slender tree trunks or round bare bushes. They are the leaves of honeysuckle plants. When they first open they have two larger leaves facing each other, and between them two smaller leaves also facing each other, so that the four leaves together form a cross. In the middle of the cross there stands a little tuft of unfolded leaves. This enterprising plant can clamber over trees or shrubs until it is 15ft high. However, it will be June before the pale pink or white flowers appear. These open at twilight, when their sweet scent attracts moths.
-
-Derwent May
