@@ -6,6 +6,28 @@ this is really for me, not for you but ok.
 
 This is a place to collect some things I need to remember about github and jekyll. Mostly these are horrible hacks, since, really, I have no idea what I'm doing :p
 
+----------------------
+### the problem of pages
+
+any file with the filename YEAR-MONTH-DAY-filename and the extension .md (eg 2020-01-01-blogpost.md) in the _posts directory will be processed by jekyll as a blogpost.
+
+other .md files at the root level of the directory will be processed as pages and appear in the menu unless you specify otherwise in the config file :
+
+eg :
+header_pages:
+  - about.md
+  - contact.md
+
+APPARENTLY if you specify in the config file :
+
+include: ['_pages'] 
+
+it means files located there will be processed too ... but where are they?
+
+see : https://github.com/jekyll/jekyll/issues/920
+
+----------------------
+
 the most annoying difference between [blot](blot) and [jekyll](jekyll) is that the live website on [github](github) pages doesn't update immediately — sometimes it doesn't update until 20 minutes later and so when you look at the site you don't know if what you did isn't working, or the old version of the site is stuck in the cache, or the site hasn't been generated yet or it has failed to build the site.
 
 THEREFORE THE MOST IMPORTANT THING IF THE NEW SITE IS NOT LOADING IS TO CHECK YOUR EMAIL BECAUSE YOU WILL GET AN EMAIL IF THE SITE FAILED TO BUILD. 

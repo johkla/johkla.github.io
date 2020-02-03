@@ -38,3 +38,5 @@ header_pages:
   - now.md
   - posts.md
   - pinboard.md
+
+include: ['_pages'] 
