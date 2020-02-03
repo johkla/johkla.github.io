@@ -4,6 +4,8 @@
 
 ## march
 
+{:toc}
+
 ### sunday 31 : snowflake
 
 his favourite word used to be 'snowflake' which at least is a nice word even when used in a denigratory way — how can you hate a snowflake? but now it is 'traitor'. in the space of three sentences he used the word as many times. he talks like a fascist. 

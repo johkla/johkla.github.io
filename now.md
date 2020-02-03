@@ -14,6 +14,10 @@ Ja sorry hoor maar je 'past niet meer in de formule', zei ik tegen [In The Pines
 
 ### not now ###
 
-about ['het niets' : the nothing](http://blog.johannesk.com/2019/march/index.html#het_niets)
+![](https://nos.nl/data/image/2020/02/02/626524/1536x864a.jpg)
+
+https://nos.nl/artikel/2321402-buurt-utrecht-neemt-afscheid-van-geliefde-170-jaar-oude-beuk.html
+
+
 
 
