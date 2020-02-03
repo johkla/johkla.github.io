@@ -4,14 +4,9 @@ title: now
 
 ![]()
 
-Oh f✶✶✶ off with your all your f✶✶✶ing and your f✶✶✶s.
+Ja sorry hoor maar je 'past niet meer in de formule', zei ik tegen [In The Pines van The Triffids](https://www.discogs.com/Triffids-In-The-Pines/release/904387) in the CD sale at the Utrecht City Library on a rainy Sunday afternoon. Ach ... 1986 ... you were recorded on an 8 track in a shearing shed in Western Australia, 600kms to Perth in four days beginning on my grandmother's birthday. You can stream it on Spotify probably but without the sleeve how would you know that Robert McComb Hit a Large Water Tank With Broom on 'Just Might Fade Away' and that the budget was a bit over a thousand dollars Australian, the most expensive item being beer, wine and vodka and that all the sheep came from Woodstock? 
 
-Heathrow Terminal 4   
-W.H.Smith  
-Top shelf: The Subtle Art of Not Giving a F✶✶✶; Everything Is F✶✶✶ed; I Used to Be a Miserable F✶✶; The Four Thoughts That F✶✶✶ You Up; Surrounded by Idiots. Middle shelf: The Life-Changing Magic of Not Giving a F✶✶✶; Calm the F✶✶✶ Down; F✶✶✶ No!. 
-
-
-Meanwhile Deborah James’s new book is called 'F✶✶✶ You Cancer: How to Face the Big C, Live Your Life and Still Be Yourself' and her blazer is £1,510 by Balmain. Thank you Rupert Murdoch.
+[Pareltjes zoeken tussen de muzikale afdankertjes van de Utrechtse bieb | Trouw](https://www.trouw.nl/binnenland/pareltjes-zoeken-tussen-de-muzikale-afdankertjes-van-de-utrechtse-bieb~bb94bd76/)
 
 
 
