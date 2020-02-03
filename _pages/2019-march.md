@@ -6,9 +6,12 @@ permalink: /archive/2019/march/
 <small>[blog.johannesk.com](http://blog.johannesk.com)</small>
 
 # 2019
+{:.no_toc}
 
 ## march
+{:.no_toc}
 
+* A markdown unordered list which will be replaced with the ToC, excluding the headers from above
 {:toc}
 
 ### sunday 31 : snowflake
