@@ -11,7 +11,7 @@ as a supervisor in a spiritual care department in the largest oncological hospit
 
 these are all questions that a spiritual carer _cares_ about. 
 
-we might also ask : what is a community? and whilst we're at it, we might as well ask, what does it mean 'to care'? are the two connected? does community means : people that are connected and that care? what do they care _about_ or for whom?
+we might also ask : what is a community? and whilst we're at it, we might as well ask, what does it mean 'to care'? are the two connected? does community mean : people that are connected and that care? what do they care _about_ and/or for whom?
 
 ----------------------
 
