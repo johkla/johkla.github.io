@@ -13,13 +13,11 @@ these are all questions that a spiritual carer _cares_ about.
 
 we might also ask : what is a community? and whilst we're at it, we might as well ask, what does it mean 'to care'? are the two connected? does community mean : people that are connected and that care? what do they care _about_ and/or for whom?
 
-----------------------
-
-### not now ###
+in [this news story](https://nos.nl/artikel/2321402-buurt-utrecht-neemt-afscheid-van-geliefde-170-jaar-oude-beuk.html) (in dutch) what connects people, what makes them a community, is that they care about this 170 year old tree.
 
 ![](https://nos.nl/data/image/2020/02/02/626524/1536x864a.jpg)
 
-https://nos.nl/artikel/2321402-buurt-utrecht-neemt-afscheid-van-geliefde-170-jaar-oude-beuk.html
+
 
 
 
