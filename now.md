@@ -4,11 +4,14 @@ title: now
 
 ![]()
 
-Ja sorry hoor maar je 'past niet meer in de formule', zei ik tegen [In The Pines van The Triffids](https://www.discogs.com/Triffids-In-The-Pines/release/904387) in the CD sale at the Utrecht City Library on a rainy Sunday afternoon. Ach ... 1986 ... you were recorded on an 8 track in a shearing shed in Western Australia, 600kms to Perth in four days beginning on my grandmother's birthday. You can stream it on Spotify probably but without the sleeve how would you know that Robert McComb Hit a Large Water Tank With Broom on 'Just Might Fade Away' and that the budget was a bit over a thousand dollars Australian, the most expensive item being beer, wine and vodka and that all the sheep came from Woodstock? 
+in the torturous application process for final approval to commence work
+as a supervisor in a spiritual care department in the largest oncological hospital in the southern hemisphere, the question arises, 'what is my spiritual community?'. since i don't belong to any religion this is interesting in a range of different theological and philosophical ways. to begin let's consider what 'spiritual' could mean in a secular context. 
 
-[Pareltjes zoeken tussen de muzikale afdankertjes van de Utrechtse bieb | Trouw](https://www.trouw.nl/binnenland/pareltjes-zoeken-tussen-de-muzikale-afdankertjes-van-de-utrechtse-bieb~bb94bd76/)
+'spiritual' is one of those words which means many different things to different people and one might say that the word has been corrupted in such a way as to make its usefulness moot; but if we are training as spiritual carers and supervising such training, we cannot avoid it. if we consider the etymology, with root of the word 'spirit' being 'breath', which we see echoed in words like 'inspire', 'aspire' and 'expire' — and the idea of inspiration. when you ask someone 'what is your spirituality', are you asking 'what inspires you?'. what makes you feel alive? what makes you feel/think/believe that despite all the suffering, cruelty and injustice in the world you continue to live and you continue to work. what do you aspire to? what do you want to do before you expire? 
 
+these are all questions that a spiritual carer _cares_ about. 
 
+we might also ask : what is a community? and whilst we're at it, we might as well ask, what does it mean 'to care'? are the two connected? does community means : people that are connected and that care? what do they care _about_ or for whom?
 
 ----------------------
 
