@@ -6,6 +6,8 @@ title: now
 
 this country is all about holding back the rivers and the sea. going with the flow is not an option here. hundreds of machines work day and night to pump the water out. it is rather like living in a leaky boat.
 
+and in the other country there's not enough water to put out the fires.
+
 ----------------------
 
 # not now
@@ -17,7 +19,7 @@ tasmania
 
 i am leaving again...?
 
-i just got here and before that i left after i'd just arrived somewhere else and before that ... no wait ... i'd been where i was too long and i was keen to get out. 
+i just got here and before that i left after i'd just arrived somewhere else and before that i ... no wait ... i'd been where i was too long and i was keen to get out. 
 
 but now i want to return : to my love for you, to think about it and to feel it. 
 
@@ -33,7 +35,9 @@ being and love are not separate.
 the significance of blood : i bleed for you.
  
 if i bleed for you, you will believe in me, yes?   
-also : if i bleed for myself, i will believe in myself.
+and also : if i bleed for myself, i will believe in myself.  
+
+maybe i've got a messiah complex.
 
 
 
