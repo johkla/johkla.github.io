@@ -4,7 +4,7 @@ title: now
 
 ![](https://s3.amazonaws.com/johannesk.com/2020/img/clouds2020.jpg)
 
-in russian there are two different words for truth — i let a talking head on tv tell me this[^1] — one of them, Правда (pravda), is apparently a 'more aspirational truth' and therefore can be utilised for purposes that are not in fact related to how things actually are.
+in russian there are two different words for truth — i let a talking head on tv tell me this.* one of them, Правда (pravda), is apparently a 'more aspirational truth' and therefore can be utilised for purposes that are not in fact related to how things actually are.
 
 and english?
 
@@ -14,7 +14,7 @@ but there is 'sooth' as in 'soothsayer' — now archaic but maybe it could be re
 
 'sooth' could be an appropriate word for a kind of soothing truth, like saying 'it's ok' when it's not actually, but the intention is to try and make it so, to console or to make someone feel better — and a soothsayer : one who by speaking, soothes, who speaks sooth, a different kind of aspirational truth perhaps?
 
-[^1]: this is a straight translation of something dutch speakers say which i rather like in the context of so called post-truth : 'ik heb me laten vertellen dat...' it means that you 'allowed' someone tell to you something. it is a kind of humble pre-amble to something else you're about to say that you don't necessarily endorse yourself and/or that you cannot vouch for its veracity.
+<small>*this is a straight translation of something dutch speakers say which i rather like in the context of so called post-truth : 'ik heb me laten vertellen dat...' it means that you 'allowed' someone tell to you something. it is a kind of humble pre-amble to something else you're about to say that you don't necessarily endorse yourself and/or that you cannot vouch for its veracity.</small>
 
 ----------------------
 
