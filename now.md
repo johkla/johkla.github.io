@@ -2,6 +2,8 @@
 title: now
 ---
 
+...
+
 # not now
 
 increasingly i find my-so-called-self saying "thirty years ago i ..." i suppose that's the thing about being 60 — that's half a lifetime ago and there you were in the world doing things, like putting speed up your nose — i think this is before i started putting it in my arm. 
