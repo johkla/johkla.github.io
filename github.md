@@ -4,7 +4,7 @@ title:
 permalink: github
 ---
 
-so i moved my blog again. as always, the URL [now.johannesk.com](now.johannesk.com) will get you to the new **now** page, and [blog.johannesk.com](http://blog.johannesk.com) to the blog but you will get sent back to blot at some point.  
+so i moved my blog again but as always, the URL [now.johannesk.com](now.johannesk.com) will get you to the new **now** page, and [blog.johannesk.com](http://blog.johannesk.com) to the blog but you will get sent back to blot at some point.  
 
 this version is running on [github](github) pages powered by [jekyll](jekyll) with the minima theme. it has been a rocky road but i think i am beginning to like it 🙂 as much as one _can_ like frigging around with code and backends. 
 
