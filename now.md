@@ -2,7 +2,17 @@
 title: now
 ---
 
-...
+**#necropolitics**
+
+![](http://johannesk.com.s3.amazonaws.com/2020/img/value.jpeg)
+
+the value of a human life, according to the US system for compensating civilian victims of war, is between 2,500 and 4,200 dollars. [link (in dutch)](https://www.nrc.nl/nieuws/2019/10/18/een-mensenleven-is-2500-tot-4200-dollar-waard-a3977250)
+
+*ober? mag ik even afrekenen?*
+
+----------------------
+
+
 
 # not now
 
