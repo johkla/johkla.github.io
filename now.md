@@ -25,9 +25,9 @@ the problem with saying 'thirty years ago this or that' is that it's not very in
 
 ![](http://johannesk.com.s3.amazonaws.com/2020/img/pale-blue-dot.jpg)
 
-meanwhile a long, long way away there was a thing taking pictures of us : *look baby that's us!** not that there is much to see but it does make me wonder how much things have actually changed since copernicus. thirty years later humanity is. more than ever, locked into the mirror phase and likely to remain there for the foreseeable future.
+meanwhile a long, long way away there was a thing taking pictures of us : *K., look baby that's us!** not that there is much to see but it does make me wonder how much things have actually changed since copernicus. thirty years later humanity is, more than ever, locked into the mirror phase and likely to remain there for the foreseeable future.
 
-carl sagan, a sort of more contemporary version of copernicus i guess, said, "we are just a pale blue dot." the image, depicting “a lonely speck in the great enveloping cosmic dark”, became one of the most famous in space exploration.
+carl sagan, a sort of more contemporary version of copernicus i guess, said, "we are just a pale blue dot." there are, probably quite literally, a billion much more beautiful and more interesting images made by space 'probes' and telescopes but this one, not just depicting “a lonely speck in the great enveloping cosmic dark”, but *us* baby, became one of the most famous.
 
 ----------------------
 
