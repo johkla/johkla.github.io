@@ -2,13 +2,16 @@
 title: now
 ---
 
-**#necropolitics**
+my heart is good. she may have even used the word beautiful, the thin, anxious looking cardiologist with the double barrel name who was trying not to look anxious. 
 
-![](http://johannesk.com.s3.amazonaws.com/2020/img/value-1.jpeg)
+i wondered briefly if computer screens enable people to be doctors who were not able to be doctors before computers because they can't bear to look someone fair and square in the eye and speak with them. a contemporary doctor doesn't need to look you in the eye. you look at them, and they look at their computer screen and type on the keyboard. one day i am going to get out my laptop in a doctors surgery and type on it as i am speaking with them about my body and how shit it feels. 
 
-the value of a human life, according to the US system for compensating civilian victims of war, is between 2,500 and 4,200 dollars. [link (in dutch)](https://www.nrc.nl/nieuws/2019/10/18/een-mensenleven-is-2500-tot-4200-dollar-waard-a3977250)
+she didn't raise an eyebrow when i mentioned smoking one or two cigarettes a day, which is actually more of a half—truth since i usually smoke three or four.
 
-*ober? mag ik even afrekenen?*
+my heart does not look broken. it is pumping a good amount of blood around my body and the valves are good, opening and closing as they should and there is no evidence of any calcium deposits or anything untoward. but, she said, looking for the first time at me instead of her computer, i can't see inside your heart... 
+— quite. because if you could, what you would see is something you don't want to see.
+
+yesterday i renamed my computer 'uncomputer' after reading alexander galloway's wonderful essay. it will probably create some problems but i don't care.
 
 ----------------------
 
