@@ -2,16 +2,15 @@
 title: now
 ---
 
-my heart is good. she may have even used the word beautiful, the thin, anxious looking cardiologist with the double barrel name who was trying not to look anxious. 
+One of the benefits of converting to Islam, which admittedly I am quite unlikely to do, would be that it'd really piss off the Patriarch who reserves a special kind of hatred for Muslims, similar but not quite as intense as his dislike of Chinese people and socialists.
 
-i wondered briefly if computer screens enable people to be doctors who were not able to be doctors before computers because they can't bear to look someone fair and square in the eye and speak with them. a contemporary doctor doesn't need to look you in the eye. you look at them, and they look at their computer screen and type on the keyboard. one day i am going to get out my laptop in a doctors surgery and type on it as i am speaking with them about my body and how shit it feels. 
+The other benefit would be that you'd get to adopt an Islamic name. Am I correct in thinking that one of [the ninety nine names of Allah](https://simple.wikipedia.org/wiki/Names%5C_of%5C_God%5C_in%5C_Islam) is a common choice? And I would insist on only being addressed by my Islamic name.
 
-she didn't raise an eyebrow when i mentioned smoking one or two cigarettes a day, which is actually more of a half—truth since i usually smoke three or four.
+Would you choose the name for the meaning or for the word itself?
 
-my heart does not look broken. it is pumping a good amount of blood around my body and the valves are good, opening and closing as they should and there is no evidence of any calcium deposits or anything untoward. but, she said, looking for the first time at me instead of her computer, i can't see inside your heart... 
-— quite. because if you could, what you would see is something you don't want to see.
+If I was to go for meaning, the name I would choose would be Al Fattaa الفتاح The Opener — or Al Mujeeb المجيب The Responsive; The Answerer.
 
-yesterday i renamed my computer 'uncomputer' after reading alexander galloway's wonderful essay. it will probably create some problems but i don't care.
+If I was to go for a word, I would choose العزيز Azziz [link](https://wahiduddin.net/words/99_pages/aziz_8.htm)— also spelled Azeez but to have the letter z in one's name three times would be awesome. I love the letter z for its shape, but also because it is the last letter, and it seems quite underused. Also you can add z to be the beginning of any file name and when you reverse sort the list of files by name it puts it first in the list.
 
 ----------------------
 
@@ -25,7 +24,9 @@ the problem with saying 'thirty years ago this or that' is that it's not very in
 
 ![](http://johannesk.com.s3.amazonaws.com/2020/img/pale-blue-dot.jpg)
 
-meanwhile a long, long way away there was a thing taking pictures of us : *K., look baby that's us!** not that there is much to see but it does make me wonder how much things have actually changed since copernicus. thirty years later humanity is, more than ever, locked into the mirror phase and likely to remain there for the foreseeable future.
+meanwhile a long, long way away there was a thing taking pictures of us.
+ *K., look baby that's us!* 
+not that there is much to see but it does make me wonder how much things have actually changed since copernicus. thirty years later humanity is, more than ever, locked into the mirror phase and likely to remain there for the foreseeable future.
 
 carl sagan, a sort of more contemporary version of copernicus i guess, said, "we are just a pale blue dot." there are, probably quite literally, a billion much more beautiful and more interesting images made by space 'probes' and telescopes but this one, not just depicting “a lonely speck in the great enveloping cosmic dark”, but *us* baby, became one of the most famous.
 
