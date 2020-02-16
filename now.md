@@ -2,28 +2,35 @@
 title: now
 ---
 
-One of the benefits of converting to Islam, which admittedly I am quite unlikely to do, would be that it'd really piss off the Patriarch who reserves a special kind of hatred for Muslims, similar but not quite as intense as his dislike of Chinese people and socialists.
+three movies, each bad in their own way and for different reasons. one, about francis bacon, with derek jacobi, i abandoned because the director was trying too hard to imitate the painter's style — or *something* — and i couldn't bear it. the other two i watched until the bitter end, and bitter was the end of *magic mountains* in which hannah hoekstra climbs a mountain in the tatras, really, for no good reason. but hands up those who know where the tartra mountains are. exactly. who knew there was a spectacular mountain range on the border between poland and slovakia?
 
-The other benefit would be that you'd get to adopt an Islamic name. Am I correct in thinking that one of [the ninety nine names of Allah](https://simple.wikipedia.org/wiki/Names%5C_of%5C_God%5C_in%5C_Islam) is a common choice? And I would insist on only being addressed by my Islamic name.
+hannah hoekstra reminds me more than a little of a one time muse in newcastle, new south wales, 1993. of all the women i've loved perhaps that love was the most unrequited. i'd say hannah hoekstra would the only reason i can think of for watching the film and she might not be enough. it would love to see her in a really good film, with someone really good opposite her instead of the dead grub in this one, directed by, say greta gerwig, but it seems good films can't made in the netherlands. 
 
-Would you choose the name for the meaning or for the word itself?
+as for the other, a dreadful hotchpotch (even including horrible, gratuitous footage of civilian victims of war for no apparent reason) called 'bird on a wire', about leonard cohen. thankfully not the boring old hallelujah-i'm-a-zen-monk-now leonard but the earlier one who suddenly found fame and fortune in his 30s when, after a spectacularly unsuccessful career as a writer, he reinvented himself as a folksinger of sorts. 
 
-If I was to go for meaning, the name I would choose would be Al Fattaa الفتاح The Opener — or Al Mujeeb المجيب The Responsive; The Answerer.
+the film was made and then lost for 40 years until it was recently pieced together from 3,000 found fragments. it can't make up its mind whether to focus on the performances, such as they are, or the shenanigans backstage and on the way to and from the gigs. the problem is : i just don't *get* leonard cohen, never did, never will. ok i get that he has/had a marketable presence, and a disarming smile but his music is just not very interesting is it? 
 
-If I was to go for a word, I would choose العزيز Azziz [link](https://wahiduddin.net/words/99_pages/aziz_8.htm)— also spelled Azeez but to have the letter z in one's name three times would be awesome. I love the letter z for its shape, but also because it is the last letter, and it seems quite underused. Also you can add z to be the beginning of any file name and when you reverse sort the list of files by name it puts it first in the list.
+"*suzanne* comes from three different concerts,” the director proudly proclaims. “they were done in different tempos, different keys and even different lyrics. but with the wonders of today’s digital technology, we made it look like one performance.”
+
+so leonard takes a bath, leonard begins to sing a song and then stops and complains about the audience clapping. the final concert was in jerusalem of all places and leonard leaves the stage halfway through the gig because he's not feeling it. backstage leonard has a shave and drops a tab of acid then walks back out but you'd have no idea what exactly happened next except for leonard's tears, which flow freely.
+
+well that, at least, is something. 
 
 ----------------------
 
-
-
 # not now
 
+![](http://johannesk.com.s3.amazonaws.com/2020/img/heart-amulet-web.jpeg)
 
 
-![](http://johannesk.com.s3.amazonaws.com/2020/img/Shoreham-Kent-Valentines-Day-1979-web.jpg)
 
-Shoreham Station, Kent.
-Valentines Day, 1979.
+Heart Amulet  
+Egypt  
+ca. 1295–1070 B.C.  
+
+For the ancient Egyptians, the heart (ib) was the source of intelligence, feelings, and actions. A person's memory was also housed in the heart and so at the judgment ceremony (Weighing of the Heart) in the afterlife, the heart was able to speak on behalf of the deceased, accounting to Osiris for a lifetime of deeds. Therefore, heart amulets were only used on the mummy to protect the owner's organ and to ensure that his heart gave a positive response at judgment.
+
+[zoom in](http://johannesk.com.s3.amazonaws.com/2020/img/heart-amulet.jpg)
 
 ----------------------
 
