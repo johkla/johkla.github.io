@@ -2,11 +2,13 @@
 title: now
 ---
 
-### Molly Peacock : Why I Am Not A Buddhist.
+### Why I Am Not A Buddhist
 
 ![](http://johannesk.com.s3.amazonaws.com/2020/img/molly-peacock-why-i-am-not-a-buddhist.jpg)
 
 — via @emilynussbaum
+
+i love this. somewhere there is something i wrote with the same title but my reasons are completely different. there is also a book by evan thompson called *why i am not a buddhist*, [he explains why not and why he wrote the book very eloquently here](https://write.as/yh1aodrvldfxz.md) and ([archived here](https://write.as/yh1aodrvldfxz.md)).
 
 ----------------------
 
