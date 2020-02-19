@@ -1,6 +1,7 @@
 ---
 title: january 2020  
-permalink: /2020/january/
+permalink: /2020/january/  
+---
 
 # the time to come
 
