@@ -27,8 +27,9 @@ unfortunately in the end, it is that favourite trope of every humanist filmmaker
 
 # That, which was.[^1]
 
-> According to Agamben, also the choice of the word Shoah, ‘Catastrophe’, does not fully catch the essence, as it limits to a description; it is still an euphemism “as it implies the replacement of the proper expression of something which one does not really want to hear and talk about, with a diminished or altered expression, [and this is a process which] always brings ambiguities”. But in this case the ‘name’ does not contain any derision, any unpleasantness.
-In 1945 people had to face an unprecedented fact, without a name, but a fact that did happen. A unique fact, as previously underlined. But Agamben asks to himself: But why it is unutterable? Why to give to extermination the privilege of mystics?
+> According to Agamben, the word Shoah, ‘Catastrophe’, does not fully catch the essence, as it limits to a description; it is still an euphemism “as it implies the replacement of the proper expression of something which one does not really want to hear and talk about, with a diminished or altered expression, [and this is a process which] always brings ambiguities”. But in this case the ‘name’ does not contain any derision, any unpleasantness.
+>
+> In 1945 people had to face an unprecedented fact, without a name, but a fact that did happen. A unique fact, as previously underlined. But Agamben asks to himself: But why it is unutterable? Why to give to extermination the privilege of mystics?
 
 > In order to develop his thought, Agamben goes back to a peculiar use of the Greek verb ‘euphemein’. According to the Father of the Church, the best way to glorify God is to respect his absolutely incomprehensible nature, his ‘unutterable, untellable, indescribable’ being. While some individuals are trying to understand the essence of God, the swarms of angels glorify him eternally: “(...) the latter [the angels] adore him in silence, the former [the men] keep themselves busy; the latter take their eyes off, the former are not ashamed to stare their look at the untellable glory”
 
