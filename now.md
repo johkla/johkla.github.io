@@ -18,7 +18,7 @@ a posthumanist can only be optimistic, radically.
 
 # not now
 
-![](http://johannesk.com.s3.amazonaws.com/2020/img/Dorothea-Lange.png)
+<center>![](http://johannesk.com.s3.amazonaws.com/2020/img/Dorothea-Lange.png)</center>
 
 <center>Dorothea Lange</center>  
 
