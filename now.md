@@ -20,7 +20,9 @@ a posthumanist can only be optimistic, radically.
 
 <center><img src="http://johannesk.com.s3.amazonaws.com/2020/img/Dorothea-Lange.png"></center>
 
-<center>Dorothea Lange</center>  
+<center>Dorothea Lange</center>  <p>
+  &nbsp;
+</p>
 
 ----------------------
 
