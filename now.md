@@ -1,21 +1,15 @@
 ---
 title: now
 ---
+we are pussy willow  
+catkins growing silvery   
+buttons on low sallow  
+bushes beside lakes  
+and in other damp places,  
+turning to gold as flecks  
+of pollen appear. 
 
-*a response to questions about radical optimism from becoming posthumanists :*
-
-perhaps i became a radical optimist because i *was* disappointed.  
-disappointed with life, in love, in what is possible for a human being. 
-
-i found solace in a radical decision : to be optimistic, which an intention, an attitude, a practice — rather than allowing oneself to be pushed and pulled around by hope, which seems to come and go and to find that being optimistic is possible. it is an act of agency, of autonomy, in spite of everything. 
-
-to refuse to succumb to pessimism and nihilism and cynicism — and to the emptiness of irony and sarcasm is a political and ethical decision.
-
-everything is possible, even the impossible.  
-a posthumanist can only be optimistic radically, because ... well look at it, the world and what is happening to it.
-does it inspire hope?
-
-alright there *are* chiffchaffs, a few — and there will be more.
+(apologies to derwent may)
 
 <p>
   &nbsp;
