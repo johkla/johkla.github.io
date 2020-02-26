@@ -9,7 +9,7 @@ let the ~~pandemic~~ ... thirty day free trial begin.
 
 today i am watching the last film francois truffaut made, [*vivement dimanche!*](https://mubi.com/films/confidentially-yours/ratings/19480951) (so *finally, sunday!* but for reasons best known to some marketing department somewhere, it was released as *confidentially yours* in english-speaking countries) with fanny ardent from 1983. truffaut died the next year, aged 52, after being diagnosed with a brain tumor. 
 
-it seems fitting to begin with the last film made by a committed cinephile, for whom every moment that he wasn't watching or making a film — or writing (and one assumes thinking about) about film was a distraction.
+it seems fitting to begin with the last film made by a committed cinephile, for whom every moment that he wasn't watching or making a film — or writing (and one assumes thinking) about film was a distraction.
 
 ----------------------
 
