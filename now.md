@@ -7,7 +7,7 @@ as you'll recall, it's a kind of anti-netflix : thirty arthouse movies, each day
 
 let the ~~pandemic~~ ... thirty day free trial begin.
 
-today i am watching the last film francois truffaut made, *vivement dimanche!* (so *finally, sunday!* but for reasons best known to some marketing department somewhere, it was released as *confidentially yours* in english-speaking countries) with fanny ardent from 1983. truffaut died the next year, aged 52, after being diagnosed with a brain tumor. 
+today i am watching the last film francois truffaut made, [*vivement dimanche!*](https://mubi.com/films/confidentially-yours/ratings/19480951) (so *finally, sunday!* but for reasons best known to some marketing department somewhere, it was released as *confidentially yours* in english-speaking countries) with fanny ardent from 1983. truffaut died the next year, aged 52, after being diagnosed with a brain tumor. 
 
 <p>
   &nbsp;
