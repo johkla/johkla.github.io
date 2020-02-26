@@ -13,13 +13,23 @@ it seems fitting to begin with the last film made by a committed cinephile, for 
 
 ----------------------
 
-meanwhile the one and only [review of my book on amazon]() is not exactly complimentary. i particularly enjoyed the bit where he says <span style="background-color: yellow">*his frequent mention of the ten to the power of 500 universes and eleven dimensions makes you want to scream.*</span> i love the idea of people wanting to scream when they read what i've written. 
+<p>
+  &nbsp;
+</p>meanwhile the one and only [review of my book on amazon]() is not exactly complimentary. i particularly enjoyed the bit where he says <span style="background-color: yellow">*his frequent mention of the ten to the power of 500 universes and eleven dimensions makes you want to scream.*</span> i love the idea of people wanting to scream when they read what i've written. 
+
+
 
 and also : i can hear keith laughing his head off somewhere beyond the grave. it made him want to scream too.
 
+
+
 ----------------------
 
-finally farmers are playing the mental health card to strike back at vegans and i expect butchers to follow before too long. this headline from the times of london today :
+<p>
+  &nbsp;
+</p>finally farmers are playing the mental health card to strike back at vegans and i expect butchers to follow before too long. this headline from the times of london today :
+
+
 
 ![](http://johannesk.com.s3.amazonaws.com/2020/img/Militant%20celebrity.jpeg)
 
@@ -38,7 +48,9 @@ finally farmers are playing the mental health card to strike back at vegans and 
 
 ----------------------
 
-
+<p>
+  &nbsp;
+</p>
 
 
 
