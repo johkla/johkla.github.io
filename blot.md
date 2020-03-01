@@ -25,7 +25,11 @@ it dates from a time when i foolishly entrusted blot with my root domain which i
 
 ----------------------
 
+<p>
+  &nbsp;
+</p>
 so why are you no longer using blot?! don't you love blot?
+
 — yes. i do. i love blot. it's a heroic project and david does an enormous amount of work to make it all happen. i have been a user and a subscriber for many years (i am even thanked on blot's about page).
 
 the beauty of blot (when it is working) is that when you save a page of text to a particular dropbox folder, it instantly shows up on your website. change something on the page and it instantly updates on your website. it's simple and its clean. and when it works, it works brilliantly. i started making websites in 1995 and since using blot i've never been happier. 
@@ -47,6 +51,9 @@ the problem with a server bring maintained by one guy is that if the server goes
 
 ----------------------
 
+<p>
+  &nbsp;
+</p>
 
 so if you don't use blot, what are you going you use?
 
@@ -68,6 +75,9 @@ so if you don't use blot, what are you going you use?
 
 ----------------------
 
+<p>
+  &nbsp;
+</p>
 
-github? with hugo?
+
 
