@@ -15,7 +15,7 @@ i am not a fan of writing in the third person as if this is not me writing about
 
 but what do people who click on the `about` link on a webpage want to find out? let's see...  
 
-these are some questions you may have and these are some answers that you, if you knew me and my work, might give.
+you might have questions and you could just ask them but are some answers that you, if you knew me and my work, might give.
 
 where are you from? what did you do before you did this? what are you going to do?
 
@@ -26,7 +26,7 @@ where are you from? what did you do before you did this? what are you going to d
 ok so easy questions first ... not. let's leave this question for another time but i've said what my name is. i was born in the netherlands in utrecht in the same year as george harrison joined the quarrymen, richard alpert met timothy leary and hanna arendt published the human condition.[^1]
 
 ### now 
- 
+
 #### what do you do?
 
 you might say that i talk to people about life and death and what it means to be a human being — and i write about those subjects.
@@ -56,7 +56,7 @@ please use the contact form to set up an appointment.
 **what have i done?**
 i wrote a book called i am here.  
 i am an ex-artist and a recovering academic.  
-i used to play guitar in a punk band.  
+i used to play guitar in a punk band more than forty years ago. 
 
 ----------------------
 
