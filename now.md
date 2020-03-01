@@ -21,7 +21,11 @@ what to do...?
 
 ----------------------
 
-i also have a new [about](http://johannesk.com/about.html) page. check it out yo. but it's [there]((http://johannesk.com/about.html)) not here.
+<p>
+  &nbsp;
+</p>
+
+i also have a new about page. but it's [there]((http://johannesk.com/about.html)) not here.
 
 <p>
   &nbsp;
