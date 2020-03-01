@@ -34,9 +34,9 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - about.md
   - now.md
   - posts.md
-  - pinboard.md
+  - blot.md
+  - links.md
 
-include: ['_pages'] 
+include: ['_pages']
