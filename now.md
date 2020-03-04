@@ -18,8 +18,9 @@ Is it possible that god is still evolving? Some physicists and mathematicians an
 Reductionists who complain about me repeatedly referring to the ten to the power of five hundred universes and the eleven dimensions in my book (*"...he professes an interest in quantum mechanics as a way of re-imagining reality, yet does not give even the most cursory articulation of the scientific theory. On the other hand, his frequent mention of the ten to the power of 500 universes and eleven dimensions makes you want to scream."* [link](https://www.amazon.com/Am-Here-stories-cancer-ward-ebook/product-reviews/B01FG7DKP8/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews)) can be grateful I didn't choose to speak in terms of the 196,883 dimensions and the 808 sexdecillion or so symmetries, as some mathematicians are won't to do. 
 
 I was inspired to think about the im/possibility of god in this way because of the death of the author of *Infinite in All Directions*, Freeman Dyson at age 97 [^1]. Dyson was one of those scientists adherents of scientism love to hate. He was even described in one obituary as 'a practitioner of scientific theology'.[^2]
-[^1:] https://www.nytimes.com/2020/03/03/science/freeman-dyson-institute-for-advanced-study.html 
-[^2:] https://blogs.scientificamerican.com/cross-check/scientific-rebel-freeman-dyson-dies/
+
+[^1]: https://www.nytimes.com/2020/03/03/science/freeman-dyson-institute-for-advanced-study.html 
+[^2]: https://blogs.scientificamerican.com/cross-check/scientific-rebel-freeman-dyson-dies/
 
 ----------------------
 
