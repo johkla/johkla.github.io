@@ -2,8 +2,16 @@
 title: now
 ---
 
-this is a TEST.
+i learned a new word and i love it.
 
-testing ... testing ... 1 2 3
+**stochastic :** 
 
-one for you and two for me ...
+> having a random probability distribution or pattern that may be analysed statistically but may not be predicted precisely.
+
+i am stochastic ... you are stochastic ... everything is bloody well stochastic ...  
+woohoo let's sing! let's dance ...
+
+<small>thanks to jenny odell.   
+ps i am thinking of starting a new 'thing' : *interesting human of the day*.   
+and today's interesting human would be : [jenny odell](https://www.jennyodell.com) .</small>
+
