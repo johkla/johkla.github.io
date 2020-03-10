@@ -6,8 +6,6 @@ title: now
 
 **love goes to a building on fire**
 
-http://pc.cd/gj3rtalK
-
 when my love  
 stands next to your love  
 i can't compare love  
@@ -60,6 +58,6 @@ which is on fire
 
 ----------------------
 
-
+[play](http://pc.cd/gj3rtalK)
 
 ...
