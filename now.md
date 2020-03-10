@@ -2,16 +2,64 @@
 title: now
 ---
 
-i learned a new word and i love it.
 
-**stochastic :** 
 
-> having a random probability distribution or pattern that may be analysed statistically but may not be predicted precisely.
+**love goes to a building on fire**
 
-i am stochastic ... you are stochastic ... everything is bloody well stochastic ...  
-woohoo let's sing! let's dance ...
+http://pc.cd/gj3rtalK
 
-<small>thanks to jenny odell.   
-ps i am thinking of starting a new 'thing' : *interesting human of the day*.   
-and today's interesting human would be : [jenny odell](https://www.jennyodell.com) .</small>
+when my love  
+stands next to your love  
+i can't compare love  
+when it's not love
 
+it's not love   
+it's not love  
+which is my face   
+which is a building  
+which is on fire   
+on fire  
+
+when my love  
+stands next to your love  
+i can't define love  
+when it's not love
+
+it's not love  
+it's not love  
+which is my face  
+which is a building   
+which is on fire
+
+i've got two loves  
+i've got two loves  
+and they go tweet, tweet, tweet, tweet, tweet, like little birds  
+they're my two loves...  
+and they go tweet, tweet, tweet, tweet, tweet, like little birds  
+they're my two loves...  
+count them one, two loves ...  
+count them one, two loves ...
+
+which is my face  
+which is a building  
+which is on fire  
+on fire  
+
+when my love  
+stands next to your love  
+i can't define love  
+when it's not love
+
+it's not love  
+it's not love  
+which is my face  
+which is a building  
+which is on fire
+
+— david byrne
+
+----------------------
+
+
+
+...
