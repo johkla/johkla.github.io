@@ -58,6 +58,6 @@ which is on fire
 
 ----------------------
 
-[play](http://pc.cd/gj3rtalK)
+[listen](http://pc.cd/gj3rtalK)
 
 ...
