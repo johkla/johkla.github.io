@@ -2,6 +2,8 @@
 title: now
 ---
 
+![](http://johannesk.com.s3.amazonaws.com/2020/img/dit-verandert.jpg)
+
 coincidentally, or not, i had been wondering if this project in which i am engaged is, in fact, impossible — and what that means in the light of my relation to the im/possible.
 
 and then this thing comes along and suddenly everyone in the whole world is afraid and everyone in the whole world is being asked to reexamine their ideas about who and what they are and how the world works.
